@@ -60,7 +60,7 @@ All the files used to generate these images have been shared in the file ()
 - D) is DSUP at all three difference pHs overlapped
 
 
-  ### Intructions for Generating the DSUP diagram depicted above
+  ### Intructions for Generating the DSUP diagram depicted in Figure 2
 
  - 1 Use AlphaFold3 to generate a fold prediction for the DSUP protein sequence. This produces a CIF structure file (fold_analysis_dsup_model_1.cif).
  - 2 Open the CIF file in ChimeraX and export it as a PDB format file named (dsup_model_0.pdb).
