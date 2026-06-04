@@ -12,6 +12,7 @@ Methodology:
 - Electrostatics
 - Aggregation
 - Structural comparison
+- [Figure 1: Sequence Analysis of DSUP](#Figure_1:_Sequence_Analysis_of_DSUP/)
 
 ## Figure 1: Sequence Analysis of DSUP
 ![ALT](https://github.com/Katherine-Brown-8000/The-pH-Dependent-Charge-and-Electrostatic-Properties-of-the-Tardigrade-Protein-DSUP/blob/main/Figure_1_sequence_analysis_DSUP.png)
