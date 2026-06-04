@@ -17,7 +17,7 @@ Methodology:
 ![ALT](https://github.com/Katherine-Brown-8000/The-pH-Dependent-Charge-and-Electrostatic-Properties-of-the-Tardigrade-Protein-DSUP/blob/main/Figure_1_sequence_analysis_DSUP.png)
 
 
-## Figure 2: DSUP Electrostatic Surface Condition
+## Figure 2: DSUP Electrostatic Surface Conditions
 ![ALT](https://github.com/Katherine-Brown-8000/The-pH-Dependent-Charge-and-Electrostatic-Properties-of-the-Tardigrade-Protein-DSUP/blob/main/Rewrite_Fig_2A_to_2F_Labled_pH.png)
 - A) is DSUP at pH 5.5 (Acidic conditions, Colored Magenta)
 - B) is DSUP at pH 7.4 (Physiologically neutral conditions, Colored Yellow)
@@ -34,7 +34,7 @@ Methodology:
  - 5 Load both the .pqr and .dx files into ChimeraX to visualize and export electrostatic surfaces for each pH condition.
  - 6 All figure generated in ChimeraX were then opened in GIMP for side by side comparisons and labeling.
 
-## Figure 3: MD Analysis
+## Figure 3: MD Simulation of DSUP at pH 7.4 (Physiological Conditions)
 ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/Figure_3_Complete.png)
 
 
