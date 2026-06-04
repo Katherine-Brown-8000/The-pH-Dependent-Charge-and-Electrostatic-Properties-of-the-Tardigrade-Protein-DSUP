@@ -5,7 +5,6 @@ Methodology:
 - [Calculate pI for DSUP](Calculate-isoelectric-point/)
 - [Generating a plot for DSUP Net Charge vs. pH](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/tree/main/Net-charge-plot)
 - [DSUP electrostatic potential diagram](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/tree/main/DSUP%20electrostatic%20potential%20diagram)
-- [Jump to Confidence of DSUP from AlphaFold 3](#Confidence_of_DSUP)
 - Net charge vs pH
 - MD simulations
 - Disorder prediction
@@ -15,7 +14,7 @@ Methodology:
 - [Figure 1: Sequence Analysis of DSUP](#Figure_1:_Sequence_Analysis_of_DSUP)
 - [Figure 2: DSUP Electrostatic Surface Conditions](#Figure_2:_DSUP_Electrostatic_Surface_Conditions)
 - [Figure 3: MD Simulation of DSUP at pH 7.4](#Figure_3:_MD_Simulation_of_DSUP_at_pH_7.4)
-- [AlphaFold3 Confidence](#Confidence_of_DSUP)
+- [AlphaFold3 Confidence](Confidence_of_DSUP)
 
 ## Figure 1: Sequence Analysis of DSUP
 ![ALT](https://github.com/Katherine-Brown-8000/The-pH-Dependent-Charge-and-Electrostatic-Properties-of-the-Tardigrade-Protein-DSUP/blob/main/Figure_1_sequence_analysis_DSUP.png)
@@ -52,7 +51,6 @@ Methodology:
 
 ## AlphaFold3 data on DSUP
 ![ALT](https://github.com/Katherine-Brown-8000/The-pH-Dependent-Charge-and-Electrostatic-Properties-of-the-Tardigrade-Protein-DSUP/blob/main/AlphaFold3%20Info%20on%20DSUP%20screenshot.png)
--Residue lenght is 445.
 
 
 ## Programs and websites used were:
