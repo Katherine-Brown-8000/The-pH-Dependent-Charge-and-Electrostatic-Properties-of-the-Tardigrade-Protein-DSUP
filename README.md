@@ -5,7 +5,7 @@ Sections:
 - [Figure 1: Sequence Analysis of DSUP](#Figure_1:_Sequence_Analysis_of_DSUP)
 - [Figure 2: DSUP Electrostatic Surface Conditions](#Figure_2:_DSUP_Electrostatic_Surface_Conditions)
 - [Figure 3: MD Simulation of DSUP at pH 7.4](#Figure_3:_MD_Simulation_of_DSUP_at_pH_7.4)
-- [Details: AlphaFold3 Confidence](#_Confidence_of_DSUP_from_AlphaFold_3)
+- [Details: AlphaFold3 Confidence](#Confidence_of_DSUP_from_AlphaFold_3)
 
 ## Figure 1: Sequence Analysis of DSUP
 ![ALT](https://github.com/Katherine-Brown-8000/The-pH-Dependent-Charge-and-Electrostatic-Properties-of-the-Tardigrade-Protein-DSUP/blob/main/Figure_1_sequence_analysis_DSUP.png)
