@@ -13,6 +13,7 @@ Methodology:
 - Aggregation
 - Structural comparison
 - [Figure 1: Sequence Analysis of DSUP](#Figure_1:_Sequence_Analysis_of_DSUP)
+- [Figure 3: MD Simulation of DSUP at pH 7.4](#_Figure_3:_MD_Simulation_of_DSUP_at_pH_7.4)
 
 ## Figure 1: Sequence Analysis of DSUP
 ![ALT](https://github.com/Katherine-Brown-8000/The-pH-Dependent-Charge-and-Electrostatic-Properties-of-the-Tardigrade-Protein-DSUP/blob/main/Figure_1_sequence_analysis_DSUP.png)
@@ -35,7 +36,7 @@ Methodology:
  - 5 Load both the .pqr and .dx files into ChimeraX to visualize and export electrostatic surfaces for each pH condition.
  - 6 All figure generated in ChimeraX were then opened in GIMP for side by side comparisons and labeling.
 
-## Figure 3: MD Simulation of DSUP at pH 7.4 (Physiological Conditions)
+## Figure 3: MD Simulation of DSUP at pH 7.4
 ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/Figure_3_Complete.png)
 
 
