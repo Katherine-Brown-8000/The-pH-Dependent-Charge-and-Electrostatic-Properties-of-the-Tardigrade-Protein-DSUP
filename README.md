@@ -1,4 +1,4 @@
-# DSUP-acidic-config
+# The pH Dependent Charge and Electrostatic Properties of the Tardigrade Protein DSUP
 Code and data use in research into DSUP changing structure
 
 Methodology:
