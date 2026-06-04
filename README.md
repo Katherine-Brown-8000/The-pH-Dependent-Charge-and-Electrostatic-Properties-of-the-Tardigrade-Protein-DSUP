@@ -1,20 +1,11 @@
 # The pH Dependent Charge and Electrostatic Properties of the Tardigrade Protein DSUP
-Code and data use in research into DSUP changing structure
+Graphs on code used in DSUP at various pH condition
 
-Methodology:
-- [Calculate pI for DSUP](Calculate-isoelectric-point/)
-- [Generating a plot for DSUP Net Charge vs. pH](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/tree/main/Net-charge-plot)
-- [DSUP electrostatic potential diagram](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/tree/main/DSUP%20electrostatic%20potential%20diagram)
-- Net charge vs pH
-- MD simulations
-- Disorder prediction
-- Electrostatics
-- Aggregation
-- Structural comparison
+Sections:
 - [Figure 1: Sequence Analysis of DSUP](#Figure_1:_Sequence_Analysis_of_DSUP)
 - [Figure 2: DSUP Electrostatic Surface Conditions](#Figure_2:_DSUP_Electrostatic_Surface_Conditions)
 - [Figure 3: MD Simulation of DSUP at pH 7.4](#Figure_3:_MD_Simulation_of_DSUP_at_pH_7.4)
-- [AlphaFold3 Confidence]
+- [AlphaFold3 Confidence](#AlphaFoldConfidence)
 
 ## Figure 1: Sequence Analysis of DSUP
 ![ALT](https://github.com/Katherine-Brown-8000/The-pH-Dependent-Charge-and-Electrostatic-Properties-of-the-Tardigrade-Protein-DSUP/blob/main/Figure_1_sequence_analysis_DSUP.png)
