@@ -74,6 +74,10 @@ All the files used to generate these images have been shared in the file ()
  - Low (70 > pIDDT > 50) colored in yellow
  - Very low (pIDDT < 50) Colored in orenge
 
+## AlphaFold3 data on DSUP
+![ALT](https://github.com/Katherine-Brown-8000/The-pH-Dependent-Charge-and-Electrostatic-Properties-of-the-Tardigrade-Protein-DSUP/blob/main/AlphaFold3%20Info%20on%20DSUP%20screenshot.png)
+-Residue lenght is 445.
+
 
 ## Programs and websites used were:
  - [AlphaFold3](https://alphafoldserver.com/welcome)
