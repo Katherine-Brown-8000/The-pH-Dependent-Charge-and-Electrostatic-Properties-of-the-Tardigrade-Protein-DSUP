@@ -1,5 +1,6 @@
 # The pH Dependent Charge and Electrostatic Properties of the Tardigrade Protein DSUP
-Graphs on code used in DSUP at various pH condition
+Summery:
+DSUP is the protein utilized by tardigrades to protect DNA from radiation damage, the goal of this research was to understand how DSUP was affected by changes in pH through sequence analysis, electrostatic potential, and an MD simulation
 
 Sections:
 - [Figure 1: Sequence Analysis of DSUP](#Figure_1:_Sequence_Analysis_of_DSUP)
