@@ -9,6 +9,8 @@ Sections:
 
 ## Figure 1: Sequence Analysis of DSUP
 ![ALT](https://github.com/Katherine-Brown-8000/The-pH-Dependent-Charge-and-Electrostatic-Properties-of-the-Tardigrade-Protein-DSUP/blob/main/Figure_1_sequence_analysis_DSUP.png)
+Code used to generate graphs:
+![Alt](https://github.com/Katherine-Brown-8000/The-pH-Dependent-Charge-and-Electrostatic-Properties-of-the-Tardigrade-Protein-DSUP/blob/main/DSUP_Figure_1_Graph.ipynb)
 
 
 ## Figure 2: DSUP Electrostatic Surface Conditions
