@@ -31,6 +31,7 @@ Sections:
 ## Figure 3: MD Simulation of DSUP at pH 7.4
 ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/Figure_3_Complete.png)
 Code used to create graphs:
+![Alt](https://github.com/Katherine-Brown-8000/The-pH-Dependent-Charge-and-Electrostatic-Properties-of-the-Tardigrade-Protein-DSUP/blob/main/DSUP_Figure_3_Graphs.ipynb)
 
 
 
